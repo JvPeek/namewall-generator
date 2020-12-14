@@ -7,7 +7,7 @@ ledwidth=13;
 ledheight=15;
 $fn=30;
 overlap=0.01;
-username="CrazyModding";
+username="YourName";
 model="assembled";
 module makeName(name) {
     if (name == "JvPeek") {
